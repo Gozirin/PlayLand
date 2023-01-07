@@ -28,7 +28,7 @@
         app:layout_constraintTop_toTopOf="parent"
         android:layout_marginTop="80dp"
         android:layout_marginStart="20dp"
-        android:backgroundTint="#64B5F6" />
+        android:backgroundTint="#53FD35" />
 
     <Button
         android:id="@+id/new_button2"
@@ -39,7 +39,7 @@
         app:layout_constraintStart_toEndOf="@id/new_button1"
         app:layout_constraintEnd_toStartOf="@id/new_button3"
         app:layout_constraintTop_toTopOf="@id/new_button1"
-        android:backgroundTint="#FFD54F"/>
+        android:backgroundTint="#F4511E"/>
 
     <Button
         android:id="@+id/new_button3"
@@ -50,7 +50,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="@id/new_button1"
         android:layout_marginEnd="20dp"
-        android:backgroundTint="#81C784"/>
+        android:backgroundTint="#35E5C2"/>
 
     <FrameLayout
         android:id="@+id/frameFragment"
